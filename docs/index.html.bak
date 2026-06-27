@@ -273,32 +273,39 @@
           <div class="break-inside-avoid">
 
             <h2 class="mb-4 font-bold tracking-widest text-sm2 text-gray-550 print:font-normal">
-              CORE COMPETENCIES
+              SKILLS
             </h2>
 
             <section class="mb-4.5 break-inside-avoid">
               <header>
                 <h3 class="text-lg font-semibold text-gray-700 leading-snugish">
-                  Offshore Medical Operations
+                  JavaScript
                 </h3>
+                <p class="leading-normal text-md text-gray-650">
+                  Middle Level
+                </p>
               </header>
+              <p class="mt-2.1 text-md text-gray-700 leading-normal">
+                Good parts: pure function, higher-order functions, factory functions, composition. Bad parts:
+                inheritance, this, new.
+              </p>
               <div class="my-3.2 last:pb-1.5">
                 <ul class="flex flex-wrap text-md leading-relaxed -mr-1.6 -mb-1.6">
                   <li
                     class="px-2.5 mr-1.6 mb-1.6 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                    Medical Fitness Assessments
+                    ES6
                   </li>
                   <li
                     class="px-2.5 mr-1.6 mb-1.6 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                    Emergency Medical Response
+                    Vue
                   </li>
                   <li
                     class="px-2.5 mr-1.6 mb-1.6 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                    Occupational Health
+                    Functional Programming
                   </li>
                   <li
                     class="px-2.5 mr-1.6 mb-1.6 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                    Pre-hospital Trauma Care
+                    Node
                   </li>
                 </ul>
               </div>
@@ -309,28 +316,40 @@
           <section class="mb-4.5 break-inside-avoid">
             <header>
               <h3 class="text-lg font-semibold text-gray-700 leading-snugish">
-                Specialized Skills
+                Other
               </h3>
             </header>
             <div class="my-3.2 last:pb-1.5">
               <ul class="flex flex-wrap text-md leading-relaxed -mr-1.6 -mb-1.6">
                 <li class="px-2.5 mr-1.6 mb-1.6 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                  HSE Compliance
+                  CSS
                 </li>
                 <li class="px-2.5 mr-1.6 mb-1.6 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                  MEDEVAC Coordination
+                  Rust
                 </li>
                 <li class="px-2.5 mr-1.6 mb-1.6 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                  Diving Medical
+                  Git
                 </li>
                 <li class="px-2.5 mr-1.6 mb-1.6 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                  Leadership
+                  Go
                 </li>
                 <li class="px-2.5 mr-1.6 mb-1.6 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                  Team Training
+                  Linux Server
                 </li>
                 <li class="px-2.5 mr-1.6 mb-1.6 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                  Emergency Drills
+                  UI Design
+                </li>
+                <li class="px-2.5 mr-1.6 mb-1.6 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                  Photoshop
+                </li>
+                <li class="px-2.5 mr-1.6 mb-1.6 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                  Illustrator
+                </li>
+                <li class="px-2.5 mr-1.6 mb-1.6 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                  Figma
+                </li>
+                <li class="px-2.5 mr-1.6 mb-1.6 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                  Typography
                 </li>
               </ul>
             </div>
@@ -348,25 +367,27 @@
             </h2>
 
             <section class="mb-4.5 break-inside-avoid">
-            <section class="mb-4.5 break-inside-avoid">
               <ul class="list-inside pr-7">
                 <li class="mt-1.5 leading-normal text-gray-700 text-md">
-                  <a href="mailto:irvingcorreadx@gmail.com" class="group">
-                    irvingcorreadx@gmail.com
+                  <a href="//webpraktikos.com" class="group">
+                    webpraktikos.com
                     <span class="inline-block text-gray-550 print:text-black font-normal group-hover:text-gray-700 transition duration-100 ease-in">↗</span>
                   </a>
                 </li>
                 <li class="mt-1.5 leading-normal text-gray-700 text-md">
-                  <a href="https://www.linkedin.com/in/irvingcorrea/" class="group">
-                    linkedin.com/in/irvingcorrea
+                  <a href="//twitter.com/webpraktikos" class="group">
+                    twitter.com/webpraktikos
                     <span class="inline-block text-gray-550 print:text-black font-normal group-hover:text-gray-700 transition duration-100 ease-in">↗</span>
                   </a>
                 </li>
                 <li class="mt-1.5 leading-normal text-gray-700 text-md">
-                  Cd. del Carmen, Campeche, Mexico
+                  1020 Wien, Austria
                 </li>
                 <li class="mt-1.5 leading-normal text-gray-700 text-md">
-                  Medical License: 13494230
+                  hi@webpraktikos.com
+                </li>
+                <li class="mt-1.5 leading-normal text-gray-700 text-md">
+                  (+43) 0699 77 33 77 55
                 </li>
               </ul>
             </section>
